@@ -261,7 +261,7 @@ U 1 1 61085A88
 P 7250 2000
 F 0 "U4" H 7250 2100 50  0000 C CNN
 F 1 "28C256" H 7300 2000 50  0000 C CNN
-F 2 "Package_DIP:DIP-28_W15.24mm_Socket_LongPads" H 7250 2000 50  0001 C CNN
+F 2 "Socket:DIP_Socket-28_W11.9_W12.7_W15.24_W17.78_W18.5_3M_228-1277-00-0602J" H 7250 2000 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc0006.pdf" H 7250 2000 50  0001 C CNN
 	1    7250 2000
 	-1   0    0    -1  
@@ -854,50 +854,6 @@ Wire Wire Line
 Connection ~ 3650 5100
 Wire Wire Line
 	3650 5100 3650 5050
-$Comp
-L Mechanical:MountingHole H1
-U 1 1 6470C51B
-P 10250 650
-F 0 "H1" H 10350 650 50  0000 L CNN
-F 1 "MountingHole" H 10350 605 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 10250 650 50  0001 C CNN
-F 3 "~" H 10250 650 50  0001 C CNN
-	1    10250 650 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 6470CC81
-P 10250 850
-F 0 "H2" H 10350 850 50  0000 L CNN
-F 1 "MountingHole" H 10350 805 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 10250 850 50  0001 C CNN
-F 3 "~" H 10250 850 50  0001 C CNN
-	1    10250 850 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H3
-U 1 1 6470D177
-P 10250 1050
-F 0 "H3" H 10350 1050 50  0000 L CNN
-F 1 "MountingHole" H 10350 1005 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 10250 1050 50  0001 C CNN
-F 3 "~" H 10250 1050 50  0001 C CNN
-	1    10250 1050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H4
-U 1 1 6470D58F
-P 10250 1250
-F 0 "H4" H 10350 1250 50  0000 L CNN
-F 1 "MountingHole" H 10350 1205 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 10250 1250 50  0001 C CNN
-F 3 "~" H 10250 1250 50  0001 C CNN
-	1    10250 1250
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	5400 1100 5650 1100
 Wire Wire Line
