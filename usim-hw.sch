@@ -5,8 +5,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "USIM in hardware"
-Date "2021-07-02"
-Rev "1.0"
+Date "2021-08-04"
+Rev "1.1"
 Comp ""
 Comment1 "usim-hw"
 Comment2 "USIM in hardware.\\nOriginal usim Simulator by Ray Bellis (https://github.com/raybellis/usim)"
